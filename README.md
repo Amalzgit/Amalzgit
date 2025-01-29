@@ -1,32 +1,47 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there! 👋 Welcome to My GitHub Profile
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Interest] who loves working on exciting projects and learning new technologies.  
+## 🚀 About Me
+Hello! I'm Amal Johnson, a passionate MERN Stack Developer with expertise in building efficient, scalable applications using JavaScript, TypeScript, MongoDB, PostgreSQL, Express.js, and Node.js. I have experience working with cloud platforms such as AWS and tools like Git and Nginx. I enjoy collaborating in dynamic team environments to deliver innovative solutions.
 
-## 🔥 About Me  
-- 💻 I specialize in [Your Specialization, e.g., Web Development, Data Science, etc.]  
-- 🚀 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m learning **[Technology or Skill You’re Learning]**  
-- 💬 Ask me about **[Topics You Can Help With]**  
-- 📫 Reach me at **[Your Email or Social Media]**  
+## 🔧 Tech Stack
+- 💻 Languages: JavaScript, TypeScript
+- 🛠️ Frameworks & Libraries: Node.js, Express.js,React.js
+- 📦 Databases: MongoDB, PostgreSQL
+- 🎨 Front-End: React ,HTML5, CSS3, Bootstrap,Tailwind
+- ☁️ Cloud & Tools: AWS, Git, Nginx, MVC Architecture,Clean Architecture, Repository Pattern
+- 🔢 Data Structures & Algorithms: Arrays, Strings, Linked Lists, Search & Sorting Algorithms, Recursion
+- 💳 Payment Integration: Razorpay
 
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## 📊 GitHub Stats
+![Amal Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## 🚀 Projects  
-🔹 [**Project 1**](https://github.com/yourusername/project1) - Short description  
-🔹 [**Project 2**](https://github.com/yourusername/project2) - Short description  
+## 🌟 Projects
+### Samaya ([GitHub Repository](#))
+- Developed a full-stack e-commerce platform using Node.js, Express.js, MongoDB, and JavaScript.
+- Implemented user account management, product management, order tracking, and payment integration with Razorpay.
+- Deployed on AWS using Nginx for cloud hosting and server management.
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+### Admin Panel ([GitHub Repository](#))
+- Built a web application with features such as user registration, login, and an admin panel for managing user data.
+- Ensured secure authentication, session management, and database integration using Node.js, Express.js, and MongoDB.
 
-## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+### Clone Websites ([GitHub](#))
+- Developed static clones of Amazon and Uber using HTML, CSS, and minimal JavaScript.
+- Focused on responsive design and user-friendly interfaces.
 
----
+### Static Website Design ([GitHub](#))
+- Designed a visually appealing and functional static website using HTML and CSS.
 
-⭐️ *Feel free to explore my repositories and contribute!*  
+## 🎉 Fun Section
+😆 **Random Developer Joke:**
+> "Why do programmers prefer dark mode? Because light attracts bugs!"
+
+🔄 **Refresh for a new joke every time!**
+
+## 🔗 Connect with Me
+- 📧 [Email](mailto:1mailtoamal@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/amal-johnson-ofl)
+- 🐦 [Twitter]([https://twitter.com/your-handle](https://x.com/AmalJohnso99476?t=szJe8-7B_0IiEooyZFgCGg&s=08&mx=2))
+- 🌐 [Portfolio]([your-portfolio-link](https://amalzgit.github.io/Portfolio/))
+
+Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you find something interesting! 😃
