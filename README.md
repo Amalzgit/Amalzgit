@@ -1,47 +1,81 @@
-# Hi there! 👋 Welcome to My GitHub
+# Amal Johnson | MERN Stack Developer
 
-## 🚀 About Me
-Hello! I'm Amal Johnson, a passionate MERN Stack Developer with expertise in building efficient, scalable applications using JavaScript, TypeScript, MongoDB, PostgreSQL, Express.js, and Node.js. I have experience working with cloud platforms such as AWS and tools like Git and Nginx. I enjoy collaborating in dynamic team environments to deliver innovative solutions.
+## About Me
+I am a dedicated MERN Stack Developer with a strong foundation in building scalable, efficient web applications. My expertise spans full-stack development using modern JavaScript technologies, database management, and cloud deployment strategies. I thrive in collaborative environments and am committed to delivering high-quality, innovative solutions that meet both user needs and business objectives.
 
-## 🔧 Tech Stack
-- 💻 Languages: JavaScript, TypeScript
-- 🛠️ Frameworks & Libraries: Node.js, Express.js,React.js
-- 📦 Databases: MongoDB, PostgreSQL
-- 🎨 Front-End: React ,HTML5, CSS3, Bootstrap,Tailwind
-- ☁️ Cloud & Tools: AWS, Git, Nginx, MVC Architecture,Clean Architecture, Repository Pattern
-- 🔢 Data Structures & Algorithms: Arrays, Strings, Linked Lists, Search & Sorting Algorithms, Recursion
-- 💳 Payment Integration: Razorpay
+## Technical Expertise
 
-## 📊 GitHub Stats
-![Amal Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+**Programming Languages**
+- JavaScript (ES6+), TypeScript
 
-## 🌟 Projects
-### Samaya ([GitHub Repository](#))
-- Developed a full-stack e-commerce platform using Node.js, Express.js, MongoDB, and JavaScript.
-- Implemented user account management, product management, order tracking, and payment integration with Razorpay.
-- Deployed on AWS using Nginx for cloud hosting and server management.
+**Backend Development**
+- Node.js, Express.js
+- RESTful API Development
+- MVC Architecture, Clean Architecture
+- Repository Pattern Implementation
 
-### Admin Panel ([GitHub Repository](#))
-- Built a web application with features such as user registration, login, and an admin panel for managing user data.
-- Ensured secure authentication, session management, and database integration using Node.js, Express.js, and MongoDB.
+**Frontend Development**
+- React.js with modern hooks and state management
+- HTML5, CSS3, Bootstrap, Tailwind CSS
+- Responsive web design principles
+- Angular 
 
-### Clone Websites ([GitHub](#))
-- Developed static clones of Amazon and Uber using HTML, CSS, and minimal JavaScript.
-- Focused on responsive design and user-friendly interfaces.
+**Database Management**
+- MongoDB (NoSQL)
+- PostgreSQL (Relational)
+- Database design and optimization
 
-### Static Website Design ([GitHub](#))
-- Designed a visually appealing and functional static website using HTML and CSS.
+**Cloud & DevOps**
+- Amazon Web Services (AWS)
+- Nginx server configuration
+- Git version control
+- CI/CD pipeline understanding
 
-## 🎉 Fun Section
-😆 **Random Developer Joke:**
-> "Why do programmers prefer dark mode? Because light attracts bugs!"
+**Additional Skills**
+- Payment gateway integration (Razorpay)
+- Data structures and algorithms
+- Problem-solving with arrays, linked lists, sorting algorithms, and recursion
 
-🔄 **Refresh for a new joke every time!**
+## Featured Projects
 
-## 🔗 Connect with Me
-- 📧 [Email](mailto:1mailtoamal@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/amal-johnson-ofl)
-- 🐦 [Twitter]([https://twitter.com/your-handle](https://x.com/AmalJohnso99476?t=szJe8-7B_0IiEooyZFgCGg&s=08&mx=2))
-- 🌐 [Portfolio]([your-portfolio-link](https://amalzgit.github.io/Portfolio/))
+### E-Commerce Platform - Samaya
+**Tech Stack:** Node.js | Express.js | MongoDB | JavaScript | AWS | Nginx
+- Architected and developed a comprehensive e-commerce solution with full user lifecycle management
+- Implemented secure user authentication, product catalog management, and order processing workflows
+- Integrated Razorpay payment gateway for seamless transaction processing
+- Deployed on AWS with Nginx configuration for optimal performance and scalability
+- **[View Repository →](https://github.com/Amalzgit/Samaya)**
 
-Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you find something interesting! 😃
+### Administrative Management System
+**Tech Stack:** Node.js | Express.js | MongoDB | Session Management
+- Built a robust web application featuring user registration, authentication, and administrative controls
+- Implemented secure session management and role-based access control
+- Designed comprehensive admin panel for efficient user data management and system oversight
+- **[View Repository →](https://github.com/Amalzgit/Samaya)**
+
+### UI/UX Clone Projects
+**Tech Stack:** HTML5 | CSS3 | JavaScript
+- Recreated pixel-perfect static versions of major platforms (Amazon, Uber)
+- Focused on responsive design principles and cross-browser compatibility
+- Demonstrated strong attention to detail in UI implementation
+- **[View Repository →](https://github.com/Amalzgit?tab=repositories)**
+
+### Portfolio & Static Web Design
+**Tech Stack:** HTML5 | CSS3 | Responsive Design
+- Designed and developed visually compelling static websites with modern aesthetics
+- Implemented responsive layouts ensuring optimal viewing across all devices
+- **[View Repository →](https://github.com/Amalzgit?tab=repositories)**
+
+## GitHub Analytics
+![Amal Johnson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amalzgit&show_icons=true&theme=radical)
+
+## Professional Contact
+
+**Email:** [1mailtoamal@gmail.com](mailto:1mailtoamal@gmail.com)  
+**LinkedIn:** [Amal Johnson](https://www.linkedin.com/in/amal-johnson-ofl)  
+**Twitter:** [@AmalJohnso99476](https://x.com/AmalJohnso99476?t=szJe8-7B_0IiEooyZFgCGg&s=08&mx=2)  
+**Portfolio:** [View Live Portfolio](https://amalzgit.github.io/Portfolio/)
+
+---
+
+*Thank you for visiting my profile. I'm always open to discussing new opportunities, collaborations, or innovative project ideas. Feel free to explore my repositories and connect with me for any inquiries.*
