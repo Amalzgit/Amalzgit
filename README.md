@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+# Hi there! 👋 Welcome to My GitHub
 
 ## 🚀 About Me
 Hello! I'm Amal Johnson, a passionate MERN Stack Developer with expertise in building efficient, scalable applications using JavaScript, TypeScript, MongoDB, PostgreSQL, Express.js, and Node.js. I have experience working with cloud platforms such as AWS and tools like Git and Nginx. I enjoy collaborating in dynamic team environments to deliver innovative solutions.
